@@ -1,8 +1,7 @@
 # Odev3 – TypeScript Ödevi
 
 Bu repo, 20 soruluk TypeScript ödevinin çözümlerini içerir.  
-Her dosya bağımsızdır ve terminal üzerinden çalıştırılabilir.  
-Çıktılar `"Soru X Başarılı!"` formatında olup ekran görüntüsü (SS) ile doğrulanabilir.
+
 
 | Dosya Adı   | Açıklama |
 |------------|----------|
